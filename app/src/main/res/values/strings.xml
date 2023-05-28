@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">sipi</string>
+    <string name="title_profile">Профиль</string>
+    <string name="title_polls">Опросы</string>
+    <string name="title_queue">Очереди</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="login_string">Логин</string>
+    <string name="password_string">Пароль</string>
+    <string name="enter_string">Вход</string>
+    <string name="string_keep_alive">Оставаться в системе</string>
+    <string name="title_exit">Выход</string>
+    <string name="title_position">Номер в очереди: </string>
+    <string name="title_queue_in">Встать в очередь</string>
+    <string name="title_queue_out">Выйти из очереди</string>
+    <string name="title_back">Назад</string>
+</resources>
